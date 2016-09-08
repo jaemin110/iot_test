@@ -31,6 +31,7 @@
 					<td>${b.title}</td>
 					<td><fmt:formatDate pattern="yyyy-MM-dd HH:mm" value="${b.regdate}"/></td>
 					<td><span class="badge bg-red">${b.viewcnt}</span></td>
+					
 				</tr>
 			</c:forEach>
 		</table>

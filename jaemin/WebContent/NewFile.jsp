@@ -8,7 +8,6 @@
 </head>
 <body>
 
-Github test!!
-
+Jaemin Github Test!
 </body>
 </html>
